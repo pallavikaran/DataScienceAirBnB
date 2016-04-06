@@ -2,43 +2,36 @@
 #Date: 03/29/2016
 #Purpose: AirBNB
 rm(list = ls())
-rawdf= read.csv("D:\\Spring 2016\\DS_Lab\\AirBnb\\train_users_2.csv (1)\\train_newQ.csv")  # read csv file 
+rawdf= read.csv("D:\\Spring 2016\\DS_Lab\\AirBnb\\train_users_2.csv (1)\\TrimFile.csv")  # read csv file 
 rawdf
-c<-array(1:213451)
-c[1:213451]<-rawdf$age
-c1<-which(c>100)
-rawdf$age[c1]<-47
-
-na1<-which(is.na(rawdf$age[1:213451]))
-rawdf$age[na1]<-45
-b<-array(1:123000)
-b[1:123000]<-rawdf$age[1:123000]
-na2<-which(b==45)
-rawdf$age[na2]<-40
-rawdf$timestamp_first_active<-NULL
-rawdf$date_account_created<-NULL
-rawdf$date_first_booking<-NULL
-rawdf$signup_flow<-NULL
-rawdf$first_affiliate_tracked<-NULL
-
-
-#f2<-rawdf$gender[3]
-
-for(i in 1:123000)
-{
-  
-  if(rawdf$gender[i]=="-unknown-")
-  {
-    rawdf$gender[i]="MALE"
-  }
-}
-for(j in 123001:213451)
-{
-  
-  if(rawdf$gender[j]=="-unknown-")
-  {
-    rawdf$gender[j]="FEMALE"
-  }
-}
 
 rawdf
+set.seed(9)
+Rindex<-1:nrow(rawdf)
+Rtestindex<-sample(Rindex,trunc(length(Rindex)*0.3))
+Rtestset<-rawdf[Rtestindex,]
+Rtrainset<-rawdf[-Rtestindex,]
+library(rpart)
+fit<-rpart(country_destination ~.,method="class",data=Rtrainset,control=rpart.control(minsplit=1))
+printcp(fit)
+plotcp(fit)
+summary(fit)
+plot(fit, uniform=TRUE, 
+     main="Classification Tree for Airbnb")
+text(fit, use.n=TRUE, all=TRUE, cex=.8)
+Rtestset
+prediction<-predict(fit,Rtestset,type="class")
+#View(prediction)
+library(caret)
+tab<-table(pred=prediction,actual=Rtestset[,1])
+confusionMatrix(tab)
+library(tree)
+summary(tree(country_destination ~.,method="class",data=Rtrainset))
+
+
+pfit<-prune(fit,cp=0.019704)
+prediction<-predict(pfit,testset[,-1],type="class")
+tab<-table(pred=prediction,actual=testset[,1])
+confusionMatrix(tab)
+
+

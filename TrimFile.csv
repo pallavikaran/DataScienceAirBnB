@@ -1,0 +1,1000 @@
+date_account_created_Q,date_first_booking_Q,gender,age,signup_method,signup_flow,language,affiliate_channel,affiliate_provider,first_affiliate_tracked,signup_app,first_device_type,first_browser,country_destination
+2,1,-unknown-,40,facebook,0,en,direct,direct,untracked,Web,Mac Desktop,Chrome,FR
+2,1,MALE,38,facebook,0,en,seo,google,untracked,Web,Mac Desktop,Chrome,FR
+3,3,FEMALE,56,basic,3,en,direct,direct,untracked,Web,Windows Desktop,IE,US
+4,3,FEMALE,42,facebook,0,en,direct,direct,untracked,Web,Mac Desktop,Firefox,other
+3,1,-unknown-,41,basic,0,en,direct,direct,untracked,Web,Mac Desktop,Chrome,US
+1,1,-unknown-,40,basic,0,en,other,other,omg,Web,Mac Desktop,Chrome,US
+1,1,FEMALE,46,basic,0,en,other,craigslist,untracked,Web,Mac Desktop,Safari,US
+1,1,FEMALE,47,basic,0,en,direct,direct,omg,Web,Mac Desktop,Safari,US
+1,3,FEMALE,50,basic,0,en,other,craigslist,untracked,Web,Mac Desktop,Safari,US
+1,1,-unknown-,46,basic,0,en,other,craigslist,omg,Web,Mac Desktop,Firefox,US
+1,1,FEMALE,36,basic,0,en,other,craigslist,untracked,Web,Mac Desktop,Firefox,US
+1,1,FEMALE,47,basic,0,en,other,craigslist,untracked,Web,iPhone,-unknown-,FR
+1,1,-unknown-,40,basic,0,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+1,1,FEMALE,37,basic,0,en,other,craigslist,linked,Web,Mac Desktop,Firefox,FR
+1,1,FEMALE,36,basic,0,en,other,craigslist,untracked,Web,iPhone,Mobile Safari,FR
+1,1,FEMALE,33,basic,0,en,direct,direct,untracked,Web,Windows Desktop,Chrome,CA
+1,1,-unknown-,40,basic,0,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+1,1,-unknown-,31,basic,0,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,US
+1,1,-unknown-,40,basic,0,en,seo,facebook,NA,Web,Other/Unknown,-unknown-,FR
+1,1,FEMALE,29,basic,0,en,direct,direct,untracked,Web,Mac Desktop,Chrome,FR
+1,1,-unknown-,40,basic,0,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+1,1,MALE,30,basic,0,en,direct,direct,linked,Web,Mac Desktop,Chrome,US
+1,1,-unknown-,40,basic,0,en,seo,google,untracked,Web,iPhone,-unknown-,US
+1,1,-unknown-,40,basic,0,en,other,craigslist,untracked,Web,Mac Desktop,Safari,FR
+1,1,FEMALE,40,basic,0,en,seo,google,untracked,Web,Mac Desktop,Firefox,FR
+1,1,FEMALE,26,basic,0,en,other,craigslist,untracked,Web,Mac Desktop,Chrome,FR
+1,1,-unknown-,40,basic,0,en,other,other,untracked,Web,Other/Unknown,-unknown-,FR
+1,1,FEMALE,32,basic,0,en,other,craigslist,untracked,Web,Desktop (Other),Chrome,US
+1,1,-unknown-,35,basic,0,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+1,1,-unknown-,37,basic,0,en,direct,direct,untracked,Web,Android Tablet,-unknown-,US
+1,1,-unknown-,42,basic,0,en,other,craigslist,untracked,Web,Mac Desktop,Firefox,FR
+1,1,MALE,31,basic,0,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+1,1,-unknown-,31,basic,0,en,seo,google,untracked,Web,Other/Unknown,-unknown-,FR
+1,1,MALE,29,basic,0,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+1,1,MALE,59,basic,0,en,direct,direct,untracked,Web,Windows Desktop,Chrome,FR
+1,1,-unknown-,49,basic,0,en,sem-non-brand,google,NA,Web,Other/Unknown,-unknown-,FR
+1,1,FEMALE,31,basic,0,en,direct,direct,linked,Web,Mac Desktop,Safari,US
+1,1,MALE,30,basic,0,en,other,craigslist,untracked,Web,Windows Desktop,Chrome,FR
+1,1,-unknown-,40,basic,0,en,sem-non-brand,other,omg,Web,Windows Desktop,Firefox,FR
+1,1,FEMALE,35,basic,0,en,other,craigslist,untracked,Web,Mac Desktop,Safari,FR
+1,1,MALE,26,basic,0,en,other,craigslist,linked,Web,Windows Desktop,Firefox,FR
+1,1,FEMALE,30,basic,0,en,direct,direct,untracked,Web,Mac Desktop,Chrome,US
+1,1,FEMALE,29,basic,0,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+1,1,-unknown-,40,basic,0,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+4,4,-unknown-,40,basic,0,en,direct,direct,NA,Web,Other/Unknown,-unknown-,GB
+1,1,FEMALE,44,basic,0,en,other,craigslist,untracked,Web,Windows Desktop,IE,US
+1,1,-unknown-,40,basic,0,en,direct,direct,untracked,Web,Mac Desktop,Safari,ES
+1,1,-unknown-,40,basic,0,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,US
+1,1,-unknown-,40,basic,0,en,other,craigslist,untracked,Web,Windows Desktop,IE,FR
+1,1,-unknown-,34,basic,0,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,US
+1,1,-unknown-,30,basic,0,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+1,1,-unknown-,40,basic,0,en,direct,direct,untracked,Web,Mac Desktop,Safari,US
+1,1,-unknown-,33,basic,0,en,other,craigslist,untracked,Web,iPad,Mobile Safari,US
+1,1,MALE,28,basic,0,en,other,craigslist,linked,Web,Windows Desktop,Chrome,FR
+1,1,-unknown-,44,basic,0,en,other,craigslist,untracked,Web,Mac Desktop,Firefox,US
+1,3,-unknown-,19,basic,0,en,direct,direct,omg,Web,iPad,Mobile Safari,US
+1,1,FEMALE,53,basic,0,en,other,craigslist,linked,Web,Android Tablet,Chrome,FR
+1,1,-unknown-,40,basic,0,en,direct,direct,untracked,Web,Android Tablet,Chrome,CA
+1,1,MALE,52,basic,0,en,direct,direct,untracked,Web,Windows Desktop,Firefox,US
+1,1,-unknown-,40,basic,0,en,other,craigslist,untracked,Web,Windows Desktop,Chrome,FR
+1,1,-unknown-,40,basic,0,en,direct,direct,untracked,Web,iPhone,Mobile Safari,FR
+1,1,MALE,39,basic,0,en,other,craigslist,untracked,Web,iPhone,Mobile Safari,FR
+1,1,-unknown-,40,basic,0,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+1,1,-unknown-,40,basic,0,en,direct,direct,NA,Web,Other/Unknown,-unknown-,CA
+1,1,MALE,35,basic,0,en,direct,direct,untracked,Web,Windows Desktop,IE,CA
+1,1,FEMALE,40,basic,0,en,direct,direct,untracked,Web,Mac Desktop,Safari,FR
+1,1,-unknown-,40,basic,0,en,direct,direct,linked,Web,Windows Desktop,Chrome,FR
+1,1,-unknown-,40,basic,0,en,sem-non-brand,google,NA,Web,Other/Unknown,-unknown-,US
+1,1,-unknown-,40,basic,0,en,direct,direct,untracked,Web,Mac Desktop,Chrome,FR
+1,1,-unknown-,40,basic,0,en,seo,google,omg,Web,Mac Desktop,Safari,FR
+1,1,-unknown-,40,basic,0,en,other,other,NA,Web,Other/Unknown,-unknown-,US
+1,1,FEMALE,31,basic,0,en,seo,google,linked,Web,Mac Desktop,Safari,FR
+1,1,-unknown-,29,basic,0,en,other,craigslist,omg,Web,Mac Desktop,Safari,FR
+1,1,-unknown-,40,basic,0,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+1,1,FEMALE,57,basic,0,en,other,craigslist,omg,Web,Windows Desktop,Firefox,FR
+1,1,FEMALE,30,basic,0,en,direct,direct,untracked,Web,Mac Desktop,Chrome,US
+1,3,-unknown-,49,basic,0,en,other,craigslist,untracked,Web,Mac Desktop,Chrome,US
+1,1,FEMALE,37,basic,0,en,other,craigslist,omg,Web,Mac Desktop,Safari,FR
+1,1,-unknown-,40,basic,0,en,direct,direct,untracked,Web,iPhone,-unknown-,GB
+1,1,-unknown-,26,basic,0,en,other,craigslist,tracked-other,Web,iPhone,Mobile Safari,FR
+1,1,-unknown-,40,basic,3,en,other,other,NA,Web,Other/Unknown,-unknown-,other
+1,1,FEMALE,36,basic,2,en,other,craigslist,untracked,Web,iPhone,-unknown-,US
+1,1,-unknown-,40,basic,3,en,direct,direct,untracked,Web,Mac Desktop,Chrome,FR
+1,1,-unknown-,40,basic,2,en,other,craigslist,linked,Web,Mac Desktop,Chrome,FR
+1,1,FEMALE,32,basic,0,en,other,craigslist,linked,Web,Windows Desktop,Chrome,US
+1,2,MALE,33,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Firefox,US
+1,1,FEMALE,46,facebook,2,en,other,craigslist,untracked,Web,Windows Desktop,IE,US
+1,1,FEMALE,40,basic,2,en,direct,direct,linked,Web,Mac Desktop,Firefox,IT
+1,1,MALE,25,facebook,2,en,other,craigslist,linked,Web,Mac Desktop,Chrome,FR
+1,1,MALE,25,facebook,2,en,other,other,omg,Web,Mac Desktop,Chrome,FR
+1,1,-unknown-,54,basic,2,en,other,craigslist,untracked,Web,Mac Desktop,Safari,FR
+1,1,-unknown-,32,facebook,2,en,direct,direct,untracked,Web,Mac Desktop,Chrome,US
+1,1,-unknown-,40,basic,3,en,other,craigslist,untracked,Web,Mac Desktop,Safari,FR
+1,3,-unknown-,28,basic,2,en,seo,google,linked,Web,Windows Desktop,Chrome,US
+1,1,FEMALE,57,basic,2,en,other,craigslist,tracked-other,Web,Mac Desktop,Firefox,US
+1,1,FEMALE,47,basic,3,en,other,craigslist,linked,Web,Windows Desktop,IE,US
+1,3,MALE,34,basic,0,en,direct,direct,linked,Web,Windows Desktop,Chrome,US
+1,1,-unknown-,40,basic,3,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,US
+1,1,-unknown-,35,basic,2,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+1,1,-unknown-,32,basic,2,en,sem-non-brand,other,untracked,Web,Windows Desktop,Chrome,FR
+1,1,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+1,1,-unknown-,34,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Safari,FR
+1,1,OTHER,40,basic,3,en,direct,direct,untracked,Web,Mac Desktop,Chrome,ES
+1,1,-unknown-,40,basic,3,en,other,craigslist,untracked,Web,Mac Desktop,Firefox,FR
+1,1,-unknown-,40,basic,2,en,direct,direct,untracked,Web,Windows Desktop,Chrome,US
+1,1,FEMALE,69,basic,2,en,direct,direct,linked,Web,Mac Desktop,Firefox,US
+1,1,-unknown-,40,basic,3,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+1,1,FEMALE,30,basic,3,en,direct,direct,untracked,Web,Windows Desktop,Chrome,FR
+1,1,FEMALE,42,facebook,2,en,direct,direct,linked,Web,Windows Desktop,IE,FR
+1,1,FEMALE,63,basic,2,en,other,craigslist,untracked,Web,iPad,-unknown-,FR
+1,1,-unknown-,40,facebook,2,en,sem-non-brand,other,untracked,Web,Windows Desktop,Chrome,CA
+1,4,-unknown-,33,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+1,1,-unknown-,40,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+1,1,-unknown-,40,basic,3,en,direct,direct,tracked-other,Web,iPad,Mobile Safari,US
+1,1,MALE,44,basic,3,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+1,1,-unknown-,40,basic,0,en,sem-non-brand,other,NA,Web,Other/Unknown,-unknown-,FR
+1,1,FEMALE,26,basic,2,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+1,1,FEMALE,29,basic,2,en,other,craigslist,untracked,Web,Mac Desktop,Chrome,FR
+1,1,FEMALE,43,basic,2,en,other,craigslist,linked,Web,Windows Desktop,Chrome,US
+1,1,-unknown-,30,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+2,1,FEMALE,40,facebook,0,en,direct,direct,omg,Web,Mac Desktop,Safari,US
+1,1,-unknown-,36,basic,3,en,direct,direct,linked,Web,Mac Desktop,Safari,US
+1,1,-unknown-,26,basic,2,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+1,1,-unknown-,40,basic,3,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+1,1,FEMALE,33,facebook,0,en,other,craigslist,untracked,Web,Windows Desktop,Firefox,US
+1,1,FEMALE,42,facebook,2,en,direct,direct,untracked,Web,Mac Desktop,Chrome,FR
+1,1,-unknown-,40,basic,2,en,other,craigslist,untracked,Web,Windows Desktop,Firefox,FR
+1,1,FEMALE,36,facebook,2,en,other,craigslist,omg,Web,iPad,Mobile Safari,FR
+1,1,MALE,39,basic,2,en,seo,google,omg,Web,Mac Desktop,Chrome,US
+1,1,-unknown-,40,basic,2,en,direct,direct,linked,Web,Windows Desktop,Chrome,other
+1,2,-unknown-,47,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+1,1,FEMALE,52,basic,3,en,direct,direct,untracked,Web,Mac Desktop,Firefox,IT
+1,1,-unknown-,59,basic,2,en,sem-non-brand,other,NA,Web,Other/Unknown,-unknown-,FR
+1,1,-unknown-,53,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+1,1,-unknown-,40,basic,0,en,seo,google,omg,Web,Mac Desktop,Firefox,US
+1,1,-unknown-,25,basic,0,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,US
+1,1,-unknown-,40,basic,2,en,other,craigslist,omg,Web,Windows Desktop,Chrome,FR
+1,1,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+1,1,MALE,55,basic,2,en,direct,direct,untracked,Web,Android Phone,Chrome Mobile,FR
+1,1,-unknown-,40,basic,2,en,direct,direct,omg,Web,Windows Desktop,IE,FR
+1,1,-unknown-,40,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Safari,FR
+1,1,MALE,36,facebook,3,en,sem-non-brand,other,untracked,Web,Windows Desktop,Chrome,CA
+1,1,-unknown-,40,basic,3,en,direct,direct,linked,Web,Mac Desktop,Firefox,GB
+1,1,-unknown-,35,basic,2,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+1,1,-unknown-,40,basic,2,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,US
+1,1,-unknown-,65,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+1,1,FEMALE,33,basic,3,en,seo,google,linked,Web,Mac Desktop,Safari,GB
+1,1,MALE,38,facebook,3,en,sem-non-brand,other,untracked,Web,Mac Desktop,Safari,US
+1,1,-unknown-,40,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+1,1,-unknown-,41,basic,2,en,sem-non-brand,google,NA,Web,Other/Unknown,-unknown-,FR
+1,1,FEMALE,29,basic,2,en,direct,direct,untracked,Web,Windows Desktop,Chrome,FR
+1,1,-unknown-,40,basic,3,en,sem-non-brand,google,NA,Web,Other/Unknown,-unknown-,US
+1,1,-unknown-,32,basic,3,en,direct,direct,untracked,Web,iPhone,Mobile Safari,US
+1,1,-unknown-,40,basic,3,en,direct,direct,untracked,Web,Mac Desktop,Chrome,FR
+1,1,-unknown-,28,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Chrome,US
+1,1,FEMALE,46,basic,0,en,content,google,linked,Web,Mac Desktop,Firefox,US
+1,1,-unknown-,35,basic,2,en,sem-non-brand,google,NA,Web,Other/Unknown,-unknown-,FR
+1,1,FEMALE,35,facebook,2,en,other,craigslist,linked,Web,Mac Desktop,Firefox,FR
+1,1,-unknown-,34,basic,3,en,direct,direct,linked,Web,Mac Desktop,Safari,FR
+1,1,FEMALE,63,facebook,2,en,sem-non-brand,other,linked,Web,Windows Desktop,Firefox,US
+1,1,-unknown-,40,basic,2,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+1,1,-unknown-,40,basic,3,en,sem-non-brand,google,NA,Web,Other/Unknown,-unknown-,FR
+1,1,-unknown-,40,basic,3,en,direct,direct,untracked,Web,Windows Desktop,Chrome,US
+1,1,-unknown-,40,basic,3,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+1,1,MALE,58,facebook,2,en,direct,direct,linked,Web,Windows Desktop,Firefox,FR
+1,1,-unknown-,57,basic,2,en,direct,direct,linked,Web,Mac Desktop,Safari,US
+1,1,-unknown-,61,facebook,2,en,sem-non-brand,google,NA,Web,Other/Unknown,-unknown-,FR
+1,1,-unknown-,40,basic,2,en,other,craigslist,untracked,Web,iPhone,-unknown-,FR
+1,1,FEMALE,40,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Safari,FR
+1,1,-unknown-,40,facebook,3,en,sem-non-brand,google,NA,Web,Other/Unknown,-unknown-,FR
+1,1,-unknown-,40,basic,3,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+1,1,FEMALE,35,basic,2,en,other,craigslist,omg,Web,Mac Desktop,Chrome,US
+1,1,-unknown-,40,basic,2,en,other,craigslist,untracked,Web,Mac Desktop,Safari,US
+1,1,MALE,31,facebook,0,en,direct,direct,NA,Web,Other/Unknown,-unknown-,IT
+1,1,-unknown-,36,basic,2,en,other,craigslist,omg,Web,Windows Desktop,Firefox,FR
+1,1,-unknown-,40,basic,3,en,sem-non-brand,other,untracked,Web,Mac Desktop,Safari,US
+1,1,-unknown-,40,basic,2,en,other,craigslist,untracked,Web,iPad,Mobile Safari,FR
+1,1,-unknown-,40,basic,3,en,content,google,NA,Web,Other/Unknown,-unknown-,FR
+1,1,-unknown-,18,basic,2,en,direct,direct,untracked,Web,iPad,Mobile Safari,US
+1,1,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+1,1,-unknown-,40,basic,2,en,other,craigslist,untracked,Web,iPad,Mobile Safari,FR
+1,1,MALE,35,basic,2,en,other,craigslist,untracked,Web,Mac Desktop,Chrome,US
+1,1,MALE,36,basic,3,en,direct,direct,untracked,Web,Windows Desktop,Chrome,US
+1,1,-unknown-,40,basic,2,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+1,1,FEMALE,37,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Safari,US
+1,1,MALE,35,basic,3,en,sem-non-brand,other,omg,Web,Mac Desktop,Safari,FR
+1,1,-unknown-,40,basic,0,en,sem-non-brand,google,linked,Web,iPad,Mobile Safari,FR
+1,1,-unknown-,42,basic,2,en,direct,direct,linked,Web,Windows Desktop,Chrome,US
+1,2,-unknown-,40,basic,2,en,seo,google,linked,Web,Mac Desktop,Firefox,ES
+1,1,-unknown-,40,basic,2,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,US
+1,1,FEMALE,33,basic,2,en,other,craigslist,untracked,Web,Mac Desktop,Chrome,FR
+1,1,-unknown-,40,basic,0,en,content,google,NA,Web,Other/Unknown,-unknown-,US
+1,1,-unknown-,40,basic,0,fr,other,craigslist,untracked,Web,Mac Desktop,Safari,US
+1,1,FEMALE,5,basic,3,en,sem-non-brand,google,NA,Web,Other/Unknown,-unknown-,FR
+1,1,-unknown-,40,basic,3,en,direct,direct,untracked,Web,iPad,Mobile Safari,other
+1,1,-unknown-,18,basic,2,en,direct,direct,untracked,Web,Windows Desktop,Chrome,US
+1,1,-unknown-,40,basic,3,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,US
+1,1,-unknown-,33,basic,2,en,other,craigslist,linked,Web,Mac Desktop,Safari,FR
+1,1,FEMALE,40,basic,0,en,other,craigslist,untracked,Web,iPad,Mobile Safari,FR
+1,2,-unknown-,40,basic,3,en,content,google,NA,Web,Other/Unknown,-unknown-,US
+1,1,-unknown-,40,basic,3,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+1,1,MALE,33,basic,0,en,other,craigslist,untracked,Web,Mac Desktop,Safari,US
+1,1,-unknown-,27,basic,0,en,sem-non-brand,google,NA,Web,Other/Unknown,-unknown-,FR
+1,2,FEMALE,44,basic,0,en,seo,google,untracked,Web,Mac Desktop,Safari,US
+1,1,FEMALE,44,facebook,2,en,other,craigslist,omg,Web,Desktop (Other),Firefox,FR
+1,1,-unknown-,53,basic,2,en,direct,direct,untracked,Web,Windows Desktop,Firefox,FR
+1,1,FEMALE,35,basic,3,en,seo,google,untracked,Web,Mac Desktop,Chrome,US
+1,1,-unknown-,40,basic,0,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+1,1,-unknown-,47,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+1,1,-unknown-,40,basic,2,en,direct,direct,linked,Web,Mac Desktop,Safari,US
+1,1,-unknown-,40,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,other
+1,1,FEMALE,30,basic,0,en,seo,google,untracked,Web,Mac Desktop,Firefox,FR
+1,1,FEMALE,39,basic,2,en,other,craigslist,linked,Web,Mac Desktop,Firefox,US
+1,1,FEMALE,45,basic,3,en,seo,facebook,omg,Web,Mac Desktop,Safari,US
+1,1,-unknown-,54,basic,2,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+1,1,MALE,25,basic,3,en,direct,direct,untracked,Web,Mac Desktop,Chrome,FR
+1,1,FEMALE,38,facebook,2,en,direct,direct,linked,Web,Windows Desktop,Chrome,FR
+1,1,FEMALE,47,facebook,2,en,sem-non-brand,google,linked,Web,Windows Desktop,IE,FR
+1,1,FEMALE,57,basic,3,en,content,google,untracked,Web,Mac Desktop,Chrome,US
+1,1,MALE,32,facebook,3,en,direct,direct,untracked,Web,Mac Desktop,Chrome,FR
+1,1,-unknown-,40,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+1,1,-unknown-,40,basic,2,en,sem-non-brand,google,linked,Web,Windows Desktop,Chrome,FR
+1,1,-unknown-,43,basic,2,en,content,google,untracked,Web,iPad,Mobile Safari,US
+1,1,-unknown-,33,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+1,1,MALE,60,facebook,2,en,direct,direct,untracked,Web,Mac Desktop,RockMelt,US
+1,1,FEMALE,29,basic,0,en,seo,other,tracked-other,Web,Mac Desktop,Chrome,US
+1,1,-unknown-,40,basic,0,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+1,1,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+1,1,-unknown-,40,basic,3,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,US
+1,1,-unknown-,40,basic,3,en,seo,facebook,linked,Web,Mac Desktop,Firefox,US
+1,1,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+1,1,FEMALE,32,basic,0,en,seo,google,untracked,Web,Windows Desktop,Chrome,US
+1,1,-unknown-,40,basic,3,en,direct,direct,tracked-other,Web,Mac Desktop,Chrome,FR
+1,1,MALE,43,facebook,3,en,seo,google,untracked,Web,Desktop (Other),Chromium,US
+1,1,FEMALE,30,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Chrome,US
+1,1,FEMALE,29,basic,2,en,direct,direct,linked,Web,Mac Desktop,Safari,US
+1,1,-unknown-,40,basic,2,en,seo,google,omg,Web,iPad,Mobile Safari,FR
+1,2,FEMALE,42,basic,0,en,direct,direct,linked,Web,Mac Desktop,Firefox,US
+1,1,-unknown-,40,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+1,1,-unknown-,40,basic,3,en,seo,google,NA,Web,Other/Unknown,-unknown-,FR
+1,2,-unknown-,34,basic,0,en,other,craigslist,linked,Web,Mac Desktop,Chrome,US
+1,1,-unknown-,19,basic,0,en,direct,direct,linked,Web,Mac Desktop,Firefox,US
+1,1,-unknown-,40,basic,3,en,direct,direct,untracked,Web,Mac Desktop,Safari,US
+1,1,-unknown-,32,basic,2,en,sem-non-brand,google,NA,Web,Other/Unknown,-unknown-,US
+1,1,-unknown-,40,basic,3,en,sem-non-brand,google,NA,Web,Other/Unknown,-unknown-,FR
+1,1,-unknown-,40,basic,0,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+1,1,-unknown-,32,basic,3,en,direct,direct,linked,Web,Mac Desktop,Chrome,US
+1,1,FEMALE,30,facebook,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+1,1,MALE,44,basic,2,en,direct,direct,linked,Web,Mac Desktop,Chrome,US
+1,1,-unknown-,40,basic,2,en,direct,direct,omg,Web,Mac Desktop,Chrome,FR
+1,1,-unknown-,47,basic,2,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+1,1,-unknown-,40,basic,3,en,other,craigslist,omg,Web,Windows Desktop,IE,FR
+1,2,-unknown-,40,basic,2,en,direct,direct,linked,Web,Windows Desktop,Chrome,US
+1,1,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+1,1,-unknown-,40,facebook,3,en,seo,google,NA,Web,Other/Unknown,-unknown-,FR
+1,1,MALE,48,basic,1,en,direct,direct,linked,Web,Windows Desktop,Chrome,US
+1,1,FEMALE,42,facebook,2,en,other,craigslist,linked,Web,Mac Desktop,Safari,FR
+1,1,FEMALE,59,facebook,2,en,direct,direct,product,Web,Windows Desktop,IE,FR
+1,1,-unknown-,40,basic,2,en,seo,google,untracked,Web,Mac Desktop,Firefox,FR
+1,1,MALE,32,facebook,3,en,direct,direct,linked,Web,Mac Desktop,Chrome,US
+1,1,FEMALE,32,basic,2,en,other,craigslist,linked,Web,Mac Desktop,Firefox,FR
+1,1,-unknown-,40,basic,3,en,seo,google,NA,Web,Other/Unknown,-unknown-,US
+1,1,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+1,1,MALE,51,basic,2,en,other,craigslist,linked,Web,Windows Desktop,Firefox,US
+1,1,MALE,45,basic,2,en,seo,google,linked,Web,Mac Desktop,Chrome,US
+1,1,-unknown-,40,basic,2,en,sem-non-brand,other,NA,Web,Other/Unknown,-unknown-,FR
+1,1,-unknown-,40,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Firefox,US
+1,1,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+1,1,-unknown-,52,basic,3,en,content,google,omg,Web,iPad,Mobile Safari,US
+1,1,-unknown-,40,basic,3,en,seo,google,NA,Web,Other/Unknown,-unknown-,US
+1,2,-unknown-,47,basic,2,en,seo,facebook,untracked,Web,Windows Desktop,IE,US
+1,1,-unknown-,40,basic,0,en,sem-non-brand,google,NA,Web,Other/Unknown,-unknown-,US
+1,1,-unknown-,40,basic,2,en,sem-non-brand,google,linked,Web,Windows Desktop,Chrome,US
+1,1,-unknown-,38,basic,0,en,other,craigslist,untracked,Web,Mac Desktop,Safari,FR
+1,1,-unknown-,40,basic,2,en,sem-non-brand,google,untracked,Web,Mac Desktop,Safari,FR
+1,1,MALE,36,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Chrome,US
+1,1,FEMALE,46,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Safari,FR
+1,1,-unknown-,40,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,CA
+1,1,-unknown-,40,basic,2,en,seo,google,NA,Web,Other/Unknown,-unknown-,FR
+1,1,MALE,51,basic,2,en,content,google,linked,Web,Windows Desktop,IE,FR
+1,1,-unknown-,40,basic,3,en,other,craigslist,untracked,Web,Windows Desktop,Firefox,US
+1,1,MALE,31,basic,2,de,other,craigslist,untracked,Web,iPhone,-unknown-,FR
+1,1,-unknown-,40,basic,3,en,direct,direct,untracked,Web,iPad,-unknown-,FR
+1,1,-unknown-,40,basic,0,en,seo,google,omg,Web,iPad,Mobile Safari,US
+1,1,FEMALE,57,basic,2,en,other,craigslist,omg,Web,Mac Desktop,Firefox,US
+1,1,-unknown-,40,basic,3,en,direct,direct,untracked,Web,iPad,Mobile Safari,FR
+1,1,-unknown-,40,basic,3,en,content,google,NA,Web,Other/Unknown,-unknown-,US
+1,1,-unknown-,40,basic,0,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+1,4,FEMALE,40,basic,0,en,other,craigslist,untracked,Web,Windows Desktop,Chrome,PT
+1,2,FEMALE,31,basic,2,en,other,craigslist,untracked,Web,Mac Desktop,Chrome,other
+1,1,MALE,39,basic,0,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+1,1,-unknown-,40,basic,2,en,sem-non-brand,google,NA,Web,Other/Unknown,-unknown-,US
+1,1,FEMALE,61,facebook,3,en,sem-non-brand,google,tracked-other,Web,Mac Desktop,Safari,US
+1,2,-unknown-,40,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+1,1,MALE,64,basic,2,en,seo,google,untracked,Web,Windows Desktop,IE,US
+1,1,MALE,35,facebook,2,en,other,craigslist,untracked,Web,Mac Desktop,Chrome,US
+1,1,-unknown-,40,basic,3,en,direct,direct,linked,Web,Mac Desktop,Chrome,US
+1,1,-unknown-,40,basic,3,en,other,craigslist,untracked,Web,Windows Desktop,IE,US
+1,1,-unknown-,39,basic,2,en,other,craigslist,untracked,Web,Mac Desktop,Safari,US
+1,1,-unknown-,40,facebook,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+1,1,-unknown-,72,basic,0,en,content,google,NA,Web,Other/Unknown,-unknown-,FR
+1,2,MALE,70,facebook,2,en,direct,direct,tracked-other,Web,Mac Desktop,Chrome,US
+1,1,-unknown-,40,basic,2,en,sem-non-brand,google,untracked,Web,iPhone,-unknown-,US
+1,2,-unknown-,40,basic,0,en,other,craigslist,untracked,Web,Mac Desktop,Safari,US
+1,1,FEMALE,45,basic,2,en,other,craigslist,untracked,Web,Mac Desktop,Safari,FR
+1,1,-unknown-,40,basic,3,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,US
+1,1,-unknown-,42,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Safari,FR
+1,3,-unknown-,40,basic,3,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,US
+1,1,-unknown-,40,basic,3,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+1,2,FEMALE,28,basic,3,en,other,craigslist,omg,Web,Windows Desktop,IE,US
+1,3,MALE,52,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Safari,US
+1,1,MALE,37,facebook,3,en,other,craigslist,tracked-other,Web,Windows Desktop,Chrome,FR
+1,1,-unknown-,40,facebook,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+1,1,-unknown-,29,basic,3,en,seo,google,linked,Web,Mac Desktop,Chrome,US
+1,1,MALE,70,facebook,3,en,other,craigslist,untracked,Web,Windows Desktop,Chrome,US
+1,1,-unknown-,40,basic,3,en,content,google,NA,Web,Other/Unknown,-unknown-,FR
+1,1,FEMALE,67,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Firefox,US
+1,1,MALE,46,basic,2,en,direct,direct,linked,Web,Mac Desktop,Chrome,US
+1,2,-unknown-,40,basic,3,en,content,google,NA,Web,Other/Unknown,-unknown-,FR
+1,1,-unknown-,40,basic,2,en,direct,direct,untracked,Web,Windows Desktop,Firefox,FR
+1,1,-unknown-,38,basic,3,en,seo,google,untracked,Web,Mac Desktop,Chrome,US
+1,1,-unknown-,40,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+1,1,-unknown-,40,basic,2,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+1,1,FEMALE,55,basic,2,en,sem-non-brand,google,untracked,Web,Mac Desktop,Firefox,US
+1,1,FEMALE,30,basic,3,en,direct,direct,linked,Web,Mac Desktop,Chrome,US
+1,2,-unknown-,40,basic,3,en,direct,direct,untracked,Web,Mac Desktop,Firefox,US
+1,1,-unknown-,40,basic,2,en,direct,direct,linked,Web,Windows Desktop,Chrome,FR
+1,2,-unknown-,37,basic,2,en,other,craigslist,untracked,Web,Mac Desktop,Firefox,US
+1,1,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+1,2,-unknown-,40,facebook,2,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,US
+1,1,-unknown-,43,basic,2,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+1,1,-unknown-,40,basic,2,en,other,craigslist,linked,Web,Mac Desktop,Safari,FR
+1,1,-unknown-,40,facebook,2,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+2,2,MALE,52,basic,3,en,direct,direct,untracked,Web,Mac Desktop,Safari,US
+2,1,MALE,40,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Chrome,FR
+2,1,FEMALE,42,facebook,2,en,direct,direct,linked,Web,Windows Desktop,Chrome,FR
+2,2,-unknown-,31,basic,2,en,direct,direct,untracked,Web,Windows Desktop,Chrome,ES
+2,1,FEMALE,18,basic,2,en,other,craigslist,untracked,Web,Mac Desktop,Firefox,FR
+2,2,FEMALE,31,basic,0,en,seo,google,untracked,Web,Mac Desktop,Chrome,US
+2,1,-unknown-,34,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+2,1,-unknown-,32,basic,2,en,other,craigslist,tracked-other,Web,Mac Desktop,Safari,FR
+2,2,-unknown-,40,basic,2,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,US
+2,2,-unknown-,40,basic,3,en,seo,google,omg,Web,Mac Desktop,Firefox,US
+2,2,-unknown-,40,basic,3,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,US
+2,2,FEMALE,41,basic,3,en,sem-non-brand,google,tracked-other,Web,Mac Desktop,Safari,US
+2,2,MALE,29,basic,3,en,direct,direct,tracked-other,Web,Mac Desktop,Safari,US
+2,2,FEMALE,34,basic,3,en,other,craigslist,linked,Web,Mac Desktop,Safari,US
+2,2,-unknown-,40,basic,2,en,content,google,NA,Web,Other/Unknown,-unknown-,US
+2,2,FEMALE,54,basic,3,en,direct,direct,omg,Web,Android Phone,Android Browser,US
+2,2,-unknown-,40,facebook,3,en,direct,direct,untracked,Web,Mac Desktop,Safari,US
+2,2,-unknown-,40,basic,2,en,content,google,NA,Web,Other/Unknown,-unknown-,US
+2,1,MALE,34,facebook,3,en,sem-non-brand,google,omg,Web,Windows Desktop,Chrome,FR
+2,1,MALE,70,facebook,2,en,sem-non-brand,google,linked,Web,Mac Desktop,Safari,FR
+2,1,FEMALE,60,basic,2,en,sem-non-brand,google,tracked-other,Web,Windows Desktop,Firefox,FR
+2,2,FEMALE,65,basic,0,en,seo,google,untracked,Web,Windows Desktop,Firefox,US
+2,2,-unknown-,31,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,ES
+2,1,-unknown-,30,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+4,2,MALE,38,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Firefox,US
+2,2,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+2,2,FEMALE,65,basic,2,en,content,google,untracked,Web,Mac Desktop,Safari,US
+2,2,FEMALE,44,basic,2,en,seo,google,linked,Web,Mac Desktop,Safari,US
+2,2,-unknown-,40,basic,2,en,content,google,linked,Web,iPad,Mobile Safari,US
+2,2,-unknown-,40,basic,3,en,sem-non-brand,google,NA,Web,Other/Unknown,-unknown-,US
+2,1,-unknown-,40,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+2,1,-unknown-,36,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+1,2,FEMALE,44,basic,0,en,direct,direct,untracked,Web,Mac Desktop,Firefox,US
+2,1,-unknown-,40,basic,2,en,other,craigslist,linked,Web,iPad,Mobile Safari,FR
+2,2,MALE,37,facebook,2,en,direct,direct,untracked,Web,Mac Desktop,Safari,US
+2,2,-unknown-,40,basic,2,en,other,craigslist,untracked,Web,Windows Desktop,IE,US
+2,2,FEMALE,73,basic,0,en,other,craigslist,omg,Web,Mac Desktop,Safari,US
+2,1,-unknown-,40,basic,2,en,sem-non-brand,google,omg,Web,Mac Desktop,Safari,FR
+2,2,-unknown-,40,basic,2,en,sem-non-brand,google,NA,Web,Other/Unknown,-unknown-,US
+2,1,-unknown-,40,facebook,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+2,1,MALE,40,basic,2,en,direct,direct,untracked,Web,iPhone,-unknown-,FR
+2,1,-unknown-,40,basic,2,en,seo,google,linked,Web,Mac Desktop,Chrome,FR
+2,1,-unknown-,40,basic,2,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+2,1,-unknown-,31,basic,3,en,other,craigslist,untracked,Web,Windows Desktop,IE,FR
+2,1,-unknown-,40,basic,2,en,direct,direct,omg,Web,Mac Desktop,Safari,FR
+2,1,-unknown-,40,basic,2,en,direct,direct,linked,Web,iPad,Mobile Safari,FR
+2,1,FEMALE,45,basic,3,en,content,google,untracked,Web,Windows Desktop,IE,FR
+2,2,-unknown-,38,basic,3,en,direct,direct,linked,Web,Mac Desktop,Chrome,US
+2,1,MALE,37,basic,3,en,seo,google,untracked,Web,Mac Desktop,Safari,FR
+2,2,-unknown-,40,basic,2,en,seo,google,NA,Web,Other/Unknown,-unknown-,US
+2,2,FEMALE,29,basic,2,en,other,craigslist,linked,Web,Mac Desktop,Safari,US
+2,2,MALE,36,basic,3,en,other,craigslist,untracked,Web,Mac Desktop,Chrome,US
+2,2,-unknown-,40,basic,3,en,seo,google,omg,Web,Mac Desktop,Chrome,US
+2,2,-unknown-,30,facebook,3,en,direct,direct,untracked,Web,iPad,Mobile Safari,US
+2,3,-unknown-,40,basic,3,en,other,craigslist,untracked,Web,Windows Desktop,Chrome,US
+2,2,-unknown-,2014,basic,3,en,other,craigslist,untracked,Web,Windows Desktop,Firefox,FR
+2,1,-unknown-,35,basic,0,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+2,2,FEMALE,36,facebook,3,en,other,craigslist,tracked-other,Web,Mac Desktop,Chrome,FR
+2,1,-unknown-,40,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Chrome,FR
+2,2,-unknown-,40,basic,2,en,sem-non-brand,google,untracked,Web,Windows Desktop,Firefox,US
+2,2,FEMALE,32,basic,3,en,direct,direct,untracked,Web,Mac Desktop,Safari,US
+2,2,-unknown-,40,basic,3,en,other,craigslist,untracked,Web,Mac Desktop,Safari,US
+2,2,FEMALE,36,facebook,3,en,other,craigslist,linked,Web,Mac Desktop,Safari,US
+2,1,-unknown-,40,basic,3,en,other,craigslist,untracked,Web,Windows Desktop,Chrome,FR
+2,1,-unknown-,40,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+2,2,FEMALE,104,facebook,3,en,other,craigslist,linked,Web,iPhone,Mobile Safari,FR
+2,2,FEMALE,33,facebook,0,en,direct,direct,untracked,Web,Mac Desktop,Chrome,US
+2,1,-unknown-,33,basic,2,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+2,2,MALE,54,facebook,2,en,sem-non-brand,google,linked,Web,iPad,Mobile Safari,CA
+2,1,-unknown-,40,basic,2,en,sem-non-brand,google,NA,Web,Other/Unknown,-unknown-,FR
+2,2,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+2,1,FEMALE,35,facebook,2,en,direct,direct,untracked,Web,Windows Desktop,Chrome,FR
+2,1,MALE,31,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Firefox,US
+2,1,FEMALE,64,basic,3,en,content,google,omg,Web,Mac Desktop,Safari,FR
+2,2,FEMALE,37,basic,2,en,other,craigslist,untracked,Web,Android Phone,-unknown-,US
+2,1,-unknown-,40,basic,2,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+2,1,-unknown-,49,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+4,2,FEMALE,31,basic,0,en,direct,direct,untracked,Web,Windows Desktop,Firefox,US
+2,1,FEMALE,28,basic,2,en,other,craigslist,linked,Web,Android Phone,Chrome Mobile,FR
+2,2,-unknown-,28,basic,3,en,content,google,untracked,Web,Mac Desktop,Safari,US
+2,2,FEMALE,42,basic,0,en,direct,direct,untracked,Web,Windows Desktop,IE,US
+2,1,MALE,30,facebook,3,en,direct,direct,untracked,Web,Android Phone,-unknown-,FR
+2,2,-unknown-,34,basic,3,en,sem-non-brand,other,untracked,Web,Windows Desktop,Chrome,US
+2,1,FEMALE,36,facebook,3,en,other,craigslist,omg,Web,Mac Desktop,Safari,FR
+2,1,-unknown-,40,basic,2,en,direct,direct,linked,Web,Mac Desktop,Chrome,FR
+2,1,-unknown-,40,facebook,3,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+2,1,-unknown-,55,basic,3,en,content,google,linked,Web,Mac Desktop,Firefox,FR
+2,2,-unknown-,50,basic,3,en,sem-non-brand,google,omg,Web,Windows Desktop,Firefox,US
+2,2,-unknown-,73,basic,2,en,content,google,NA,Web,Other/Unknown,-unknown-,US
+1,1,OTHER,45,basic,24,en,direct,direct,untracked,Moweb,iPhone,Mobile Safari,US
+2,2,FEMALE,37,basic,3,en,direct,direct,untracked,Web,Mac Desktop,Safari,US
+2,1,-unknown-,40,basic,3,en,direct,direct,untracked,Web,Windows Desktop,Chrome,FR
+2,1,-unknown-,40,basic,0,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+2,1,-unknown-,60,basic,2,en,sem-non-brand,other,untracked,Web,Windows Desktop,Chrome,FR
+2,2,FEMALE,46,facebook,2,en,sem-non-brand,google,untracked,Web,Mac Desktop,Safari,US
+2,2,-unknown-,40,basic,2,en,sem-non-brand,google,omg,Web,Mac Desktop,Firefox,CA
+2,1,-unknown-,40,basic,3,en,other,craigslist,untracked,Web,Android Tablet,Chrome,FR
+2,4,-unknown-,39,basic,0,en,direct,direct,untracked,Web,Mac Desktop,Firefox,US
+2,1,FEMALE,59,facebook,2,en,content,google,omg,Web,Mac Desktop,Chrome,FR
+2,2,-unknown-,40,basic,2,en,direct,direct,product,Web,iPhone,Mobile Safari,ES
+2,2,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,ES
+2,2,FEMALE,28,basic,3,en,seo,google,untracked,Web,Mac Desktop,Firefox,US
+2,2,-unknown-,40,basic,0,en,other,craigslist,untracked,Web,Windows Desktop,Firefox,US
+2,1,-unknown-,40,basic,3,en,direct,direct,linked,Web,Mac Desktop,Safari,FR
+2,2,-unknown-,40,facebook,2,en,other,craigslist,linked,Web,Mac Desktop,Safari,US
+2,2,FEMALE,40,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Safari,GB
+2,2,FEMALE,35,facebook,2,en,other,craigslist,linked,Web,Windows Desktop,Chrome,US
+2,2,-unknown-,40,basic,0,en,other,craigslist,tracked-other,Web,Mac Desktop,Safari,US
+2,1,-unknown-,29,basic,2,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+2,2,FEMALE,19,facebook,3,en,sem-non-brand,google,untracked,Web,Windows Desktop,Firefox,US
+2,1,-unknown-,40,basic,2,en,sem-non-brand,vast,untracked,Web,iPhone,-unknown-,FR
+2,1,-unknown-,38,basic,2,en,sem-non-brand,google,NA,Web,Other/Unknown,-unknown-,FR
+2,1,-unknown-,41,basic,2,en,sem-non-brand,vast,linked,Web,iPad,Mobile Safari,FR
+2,1,FEMALE,31,basic,2,en,other,other,tracked-other,Web,iPhone,Mobile Safari,FR
+2,2,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+2,1,-unknown-,40,basic,2,en,direct,direct,untracked,Web,iPhone,Mobile Safari,FR
+2,1,-unknown-,40,basic,2,en,seo,google,untracked,Web,Mac Desktop,Safari,FR
+2,2,FEMALE,38,basic,2,en,sem-non-brand,vast,untracked,Web,Windows Desktop,Chrome,US
+2,4,-unknown-,65,basic,2,en,seo,google,tracked-other,Web,Windows Desktop,IE,US
+2,2,-unknown-,32,basic,3,en,other,craigslist,untracked,Web,Mac Desktop,Chrome,US
+2,2,FEMALE,31,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+2,1,FEMALE,31,basic,2,en,seo,google,untracked,Web,Windows Desktop,Chrome,FR
+2,1,-unknown-,40,basic,2,en,other,craigslist,untracked,Web,Windows Desktop,Chrome,FR
+2,2,MALE,40,basic,3,en,direct,direct,untracked,Web,Mac Desktop,Chrome,US
+2,2,-unknown-,40,basic,2,en,seo,google,linked,Web,Mac Desktop,Chrome,US
+2,1,-unknown-,40,basic,2,en,sem-non-brand,vast,untracked,Web,iPhone,-unknown-,FR
+2,2,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+2,1,FEMALE,41,facebook,0,en,other,craigslist,untracked,Web,Other/Unknown,-unknown-,FR
+2,2,-unknown-,40,basic,2,en,direct,direct,linked,Web,Mac Desktop,Safari,US
+2,2,-unknown-,42,basic,0,en,seo,google,linked,Web,Mac Desktop,Safari,US
+2,2,MALE,43,facebook,3,en,direct,direct,untracked,Web,Mac Desktop,Safari,IT
+2,1,-unknown-,40,basic,2,en,direct,direct,omg,Web,Mac Desktop,Safari,FR
+2,2,FEMALE,33,basic,0,en,direct,direct,untracked,Web,iPhone,-unknown-,US
+2,1,-unknown-,61,basic,2,es,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+2,1,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+2,2,MALE,31,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Chrome,NL
+2,1,-unknown-,40,basic,0,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+2,1,MALE,39,basic,2,en,seo,google,linked,Web,Mac Desktop,Chrome,FR
+2,2,FEMALE,40,basic,2,fr,direct,direct,untracked,Web,Windows Desktop,Firefox,FR
+2,1,FEMALE,55,facebook,2,en,direct,direct,linked,Web,Mac Desktop,Safari,FR
+2,1,MALE,38,basic,2,en,direct,direct,linked,Web,Mac Desktop,Chrome,FR
+2,2,-unknown-,40,basic,3,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,CA
+2,1,FEMALE,43,facebook,2,en,other,craigslist,untracked,Web,Mac Desktop,Firefox,FR
+2,2,-unknown-,40,basic,3,en,direct,direct,untracked,Web,iPhone,-unknown-,US
+2,2,FEMALE,36,basic,3,en,direct,direct,untracked,Web,iPhone,-unknown-,US
+2,2,FEMALE,41,basic,3,en,other,craigslist,linked,Web,iPad,Mobile Safari,US
+2,2,MALE,35,basic,2,en,other,craigslist,tracked-other,Web,Mac Desktop,Safari,US
+2,2,-unknown-,40,basic,2,en,direct,direct,linked,Web,Mac Desktop,Firefox,FR
+2,1,-unknown-,40,basic,2,en,sem-non-brand,google,untracked,Web,Windows Desktop,IE,FR
+2,2,FEMALE,5,facebook,0,en,other,craigslist,tracked-other,Web,Mac Desktop,Safari,IT
+2,2,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+2,3,MALE,30,facebook,3,en,direct,direct,untracked,Web,Mac Desktop,Chrome,ES
+2,2,MALE,35,basic,3,en,direct,direct,untracked,Web,iPhone,-unknown-,US
+2,2,-unknown-,40,facebook,3,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,US
+2,2,MALE,30,basic,3,en,direct,direct,untracked,Web,iPad,Mobile Safari,US
+2,2,FEMALE,35,facebook,2,en,seo,google,untracked,Web,Other/Unknown,-unknown-,US
+2,4,MALE,55,basic,2,en,sem-non-brand,google,untracked,Web,Mac Desktop,Chrome,US
+2,2,MALE,33,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Chrome,FR
+2,1,MALE,38,basic,3,en,content,google,untracked,Web,Windows Desktop,Chrome,FR
+2,2,FEMALE,40,basic,3,en,other,craigslist,untracked,Web,Mac Desktop,Safari,FR
+2,1,-unknown-,40,basic,0,en,seo,google,NA,Web,Other/Unknown,-unknown-,FR
+2,1,-unknown-,40,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+2,1,-unknown-,30,basic,3,en,content,google,NA,Web,Other/Unknown,-unknown-,FR
+2,2,MALE,38,facebook,3,en,direct,direct,tracked-other,Web,Windows Desktop,Chrome,FR
+2,2,-unknown-,40,basic,3,en,seo,google,NA,Web,Other/Unknown,-unknown-,US
+2,1,-unknown-,40,basic,3,en,sem-non-brand,google,NA,Web,Other/Unknown,-unknown-,FR
+2,2,FEMALE,36,basic,2,en,other,craigslist,untracked,Web,Mac Desktop,Firefox,IT
+2,1,FEMALE,37,basic,3,en,other,craigslist,linked,Web,Mac Desktop,Chrome,FR
+2,2,-unknown-,40,basic,2,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,US
+2,2,MALE,33,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Safari,US
+2,2,FEMALE,33,facebook,0,en,other,craigslist,untracked,Web,Mac Desktop,Safari,US
+2,2,-unknown-,40,basic,3,en,other,craigslist,untracked,Web,Mac Desktop,Chrome,US
+2,2,-unknown-,40,basic,2,en,seo,google,NA,Web,Other/Unknown,-unknown-,US
+2,2,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+2,2,-unknown-,40,basic,3,en,sem-non-brand,google,NA,Web,Other/Unknown,-unknown-,US
+2,2,MALE,66,basic,2,en,sem-non-brand,google,omg,Web,Mac Desktop,Firefox,FR
+2,2,MALE,42,basic,2,en,other,craigslist,untracked,Web,Mac Desktop,Chrome,US
+2,2,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+2,1,-unknown-,40,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+2,1,-unknown-,40,basic,2,en,other,craigslist,linked,Web,iPhone,Mobile Safari,FR
+2,2,-unknown-,43,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+2,1,-unknown-,40,basic,2,en,sem-non-brand,google,NA,Web,Other/Unknown,-unknown-,FR
+2,1,-unknown-,40,basic,2,en,direct,direct,linked,Web,iPhone,Mobile Safari,FR
+2,2,-unknown-,37,facebook,0,en,other,craigslist,untracked,Web,Mac Desktop,Safari,FR
+2,2,-unknown-,40,basic,0,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,US
+2,1,-unknown-,40,basic,3,en,seo,google,NA,Web,Other/Unknown,-unknown-,FR
+2,2,FEMALE,37,basic,3,en,direct,direct,linked,Web,Mac Desktop,Chrome,US
+2,1,MALE,40,facebook,3,en,direct,direct,untracked,Web,Windows Desktop,IE,FR
+2,2,MALE,43,facebook,2,en,direct,direct,omg,Web,Mac Desktop,Safari,US
+2,2,-unknown-,40,basic,3,en,seo,google,linked,Web,Mac Desktop,Firefox,US
+2,2,FEMALE,41,basic,0,en,sem-non-brand,google,untracked,Web,Windows Desktop,Chrome,US
+2,2,-unknown-,57,basic,2,en,seo,google,untracked,Web,Mac Desktop,Safari,US
+2,1,-unknown-,40,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Firefox,FR
+2,2,FEMALE,51,basic,2,en,direct,direct,untracked,Web,Windows Desktop,Chrome,US
+2,1,-unknown-,34,basic,0,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+2,1,-unknown-,40,basic,2,en,seo,google,NA,Web,Other/Unknown,-unknown-,FR
+2,2,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,IT
+2,2,MALE,32,basic,2,en,seo,google,untracked,Web,iPad,Mobile Safari,US
+2,2,FEMALE,34,basic,2,en,direct,direct,omg,Web,Windows Desktop,Chrome,US
+2,2,-unknown-,69,facebook,2,en,sem-non-brand,google,linked,Web,Windows Desktop,IE,US
+2,2,-unknown-,29,basic,2,en,other,craigslist,omg,Web,Windows Desktop,Chrome,US
+2,2,-unknown-,40,basic,3,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,other
+2,2,-unknown-,40,basic,2,en,sem-non-brand,other,NA,Web,Other/Unknown,-unknown-,US
+2,1,FEMALE,26,basic,2,en,seo,google,untracked,Web,iPad,Mobile Safari,FR
+2,2,-unknown-,31,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+2,1,FEMALE,53,facebook,2,en,content,google,untracked,Web,Windows Desktop,AOL Explorer,FR
+2,1,-unknown-,40,basic,2,en,direct,direct,untracked,Web,Windows Desktop,IE,FR
+2,1,FEMALE,29,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Chrome,FR
+2,1,MALE,29,facebook,3,en,other,craigslist,linked,Web,Mac Desktop,Safari,FR
+2,3,-unknown-,40,basic,3,en,seo,google,linked,Web,Mac Desktop,Safari,US
+2,2,-unknown-,69,basic,0,en,direct,direct,untracked,Web,Mac Desktop,Firefox,US
+2,2,-unknown-,43,basic,2,en,sem-non-brand,google,untracked,Web,Windows Desktop,IE,US
+2,2,-unknown-,40,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Safari,US
+2,2,-unknown-,40,basic,0,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+2,2,-unknown-,40,basic,2,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,US
+2,1,FEMALE,40,facebook,0,en,sem-non-brand,google,untracked,Web,Mac Desktop,Safari,FR
+2,2,-unknown-,51,basic,2,en,direct,direct,linked,Web,Mac Desktop,Chrome,ES
+2,2,-unknown-,54,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Chrome,CA
+2,1,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+2,1,-unknown-,36,facebook,3,en,sem-non-brand,other,NA,Web,Other/Unknown,-unknown-,FR
+2,2,-unknown-,40,basic,3,en,direct,direct,untracked,Web,Windows Desktop,Chrome,FR
+2,1,-unknown-,40,basic,2,en,seo,google,omg,Web,Windows Desktop,Chrome,FR
+2,1,FEMALE,35,facebook,3,en,other,craigslist,linked,Web,Windows Desktop,IE,FR
+2,2,-unknown-,40,basic,2,en,seo,google,NA,Web,Other/Unknown,-unknown-,US
+2,1,-unknown-,40,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+2,2,FEMALE,42,basic,3,en,seo,google,untracked,Web,Mac Desktop,Chrome,US
+2,2,-unknown-,40,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Chrome,ES
+2,2,-unknown-,40,basic,3,en,sem-non-brand,google,NA,Web,Other/Unknown,-unknown-,CA
+2,2,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+2,2,MALE,30,facebook,3,en,direct,direct,omg,Web,Windows Desktop,Chrome,US
+2,1,-unknown-,40,basic,2,en,sem-non-brand,google,untracked,Web,Windows Desktop,IE,FR
+2,1,FEMALE,37,facebook,3,en,content,google,omg,Web,Mac Desktop,Chrome,FR
+2,1,FEMALE,40,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+2,1,-unknown-,40,basic,0,en,seo,google,NA,Web,Other/Unknown,-unknown-,FR
+2,2,-unknown-,40,basic,0,en,direct,direct,untracked,Web,Windows Desktop,IE,US
+2,2,MALE,45,facebook,3,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,US
+2,2,-unknown-,40,basic,0,en,direct,direct,untracked,Web,Windows Desktop,Chrome,US
+2,1,-unknown-,40,basic,3,en,other,craigslist,untracked,Web,Windows Desktop,Chrome,FR
+2,2,-unknown-,28,basic,0,en,seo,google,untracked,Web,Windows Desktop,Firefox,US
+2,1,-unknown-,40,basic,3,en,direct,direct,linked,Web,Windows Desktop,IE,FR
+2,1,FEMALE,54,basic,3,en,other,craigslist,omg,Web,Mac Desktop,Firefox,FR
+2,1,-unknown-,40,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Chrome,FR
+2,1,-unknown-,40,basic,2,en,sem-non-brand,vast,untracked,Web,iPhone,Mobile Safari,FR
+2,2,-unknown-,40,basic,2,en,seo,google,linked,Web,Mac Desktop,Safari,US
+2,1,FEMALE,35,facebook,2,en,other,craigslist,untracked,Web,iPhone,-unknown-,FR
+2,2,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+2,2,MALE,35,facebook,0,en,other,craigslist,untracked,Web,Mac Desktop,Firefox,US
+2,2,-unknown-,36,facebook,2,en,direct,direct,untracked,Web,Mac Desktop,Chrome,US
+2,2,FEMALE,39,basic,3,en,direct,direct,untracked,Web,Mac Desktop,Safari,ES
+2,1,FEMALE,38,facebook,3,en,seo,google,tracked-other,Web,iPhone,Mobile Safari,FR
+2,1,FEMALE,53,facebook,2,en,direct,direct,untracked,Web,Mac Desktop,Firefox,FR
+2,1,-unknown-,40,basic,0,en,seo,google,untracked,Web,iPhone,-unknown-,FR
+2,2,MALE,33,facebook,2,en,direct,direct,untracked,Web,iPhone,-unknown-,FR
+2,3,-unknown-,40,basic,3,en,direct,direct,linked,Web,Windows Desktop,Firefox,FR
+2,2,-unknown-,40,basic,2,en,sem-non-brand,google,NA,Web,Other/Unknown,-unknown-,US
+2,2,-unknown-,40,basic,3,en,seo,google,NA,Web,Other/Unknown,-unknown-,US
+2,2,-unknown-,36,basic,2,en,direct,direct,linked,Web,Mac Desktop,Chrome,US
+2,1,-unknown-,44,basic,2,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+2,1,-unknown-,40,basic,3,en,other,craigslist,untracked,Web,iPhone,-unknown-,FR
+2,1,-unknown-,40,basic,2,en,seo,google,untracked,Web,Mac Desktop,Chrome,FR
+2,1,MALE,51,basic,3,en,other,craigslist,omg,Web,Mac Desktop,Firefox,FR
+2,1,MALE,34,facebook,2,en,other,craigslist,untracked,Web,iPhone,-unknown-,FR
+2,1,FEMALE,26,facebook,2,en,seo,google,untracked,Web,Mac Desktop,Firefox,FR
+2,1,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+2,2,FEMALE,35,basic,0,en,direct,direct,untracked,Web,Windows Desktop,Chrome,US
+2,1,MALE,38,facebook,2,en,direct,direct,linked,Web,Mac Desktop,Firefox,FR
+2,2,FEMALE,34,basic,0,en,direct,direct,linked,Web,Android Phone,Chrome Mobile,US
+2,2,-unknown-,40,basic,3,en,direct,direct,untracked,Web,Mac Desktop,Chrome,US
+2,2,-unknown-,41,basic,2,en,other,craigslist,untracked,Web,Mac Desktop,Safari,FR
+2,2,FEMALE,36,facebook,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+2,1,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+2,2,-unknown-,40,basic,2,en,other,craigslist,untracked,Web,Mac Desktop,Safari,US
+2,2,MALE,51,facebook,3,en,other,craigslist,tracked-other,Web,iPad,Mobile Safari,US
+2,1,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+2,2,-unknown-,33,basic,2,es,seo,google,NA,Web,Other/Unknown,-unknown-,US
+2,1,-unknown-,38,basic,2,en,content,google,untracked,Web,Mac Desktop,Safari,FR
+2,2,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,other
+2,1,MALE,39,basic,0,en,direct,direct,linked,Web,Windows Desktop,Chrome,FR
+2,2,MALE,46,basic,2,en,content,google,linked,Web,iPhone,Mobile Safari,other
+2,2,-unknown-,40,basic,2,en,sem-non-brand,google,omg,Web,Mac Desktop,Chrome,US
+2,1,-unknown-,40,basic,2,en,sem-non-brand,vast,omg,Web,Windows Desktop,IE,FR
+2,4,-unknown-,40,facebook,0,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,US
+2,1,-unknown-,40,basic,0,en,content,google,linked,Web,Mac Desktop,Firefox,FR
+2,1,-unknown-,40,basic,3,en,sem-non-brand,google,untracked,Web,Windows Desktop,Firefox,FR
+2,1,-unknown-,40,basic,2,en,direct,direct,untracked,Web,Windows Desktop,IE,FR
+2,1,-unknown-,40,basic,2,en,sem-non-brand,google,untracked,Web,Mac Desktop,Chrome,FR
+2,2,MALE,37,facebook,3,en,direct,direct,untracked,Web,Mac Desktop,Safari,ES
+2,1,-unknown-,40,basic,3,en,direct,direct,untracked,Web,iPad,Chrome Mobile,FR
+2,2,FEMALE,35,basic,0,en,seo,google,untracked,Web,Mac Desktop,Safari,US
+2,2,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+2,2,MALE,35,facebook,3,en,direct,direct,untracked,Web,Mac Desktop,Chrome,US
+2,2,-unknown-,40,basic,2,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,US
+2,1,FEMALE,53,facebook,2,en,direct,direct,omg,Web,Windows Desktop,Chrome,FR
+2,1,FEMALE,31,facebook,2,en,seo,google,untracked,Web,Windows Desktop,Chrome,FR
+2,2,-unknown-,105,basic,2,en,other,craigslist,omg,Web,Mac Desktop,Safari,FR
+2,1,MALE,39,basic,2,en,sem-non-brand,google,untracked,Web,Windows Desktop,Firefox,FR
+2,2,FEMALE,57,basic,2,en,sem-non-brand,google,untracked,Web,Windows Desktop,IE,US
+2,2,MALE,68,basic,3,en,other,craigslist,tracked-other,Web,Windows Desktop,IE,CA
+2,2,FEMALE,35,basic,1,en,sem-non-brand,google,untracked,Web,iPhone,Mobile Safari,FR
+2,2,MALE,28,facebook,0,en,other,craigslist,untracked,Web,Windows Desktop,Firefox,US
+2,3,MALE,35,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Safari,US
+2,1,-unknown-,40,basic,3,en,content,google,NA,Web,Other/Unknown,-unknown-,FR
+2,2,-unknown-,40,basic,3,en,content,google,NA,Web,Other/Unknown,-unknown-,FR
+2,2,FEMALE,29,basic,2,en,direct,direct,untracked,Web,Windows Desktop,Chrome,US
+2,3,MALE,33,basic,2,en,other,craigslist,omg,Web,Mac Desktop,Chrome,US
+2,2,FEMALE,25,facebook,2,en,other,craigslist,linked,Web,Mac Desktop,Chrome,US
+2,1,-unknown-,32,basic,0,en,direct,direct,tracked-other,Web,Windows Desktop,Firefox,FR
+2,1,-unknown-,32,basic,2,en,direct,direct,linked,Web,Mac Desktop,Safari,FR
+2,1,-unknown-,40,basic,2,en,direct,direct,untracked,Web,Android Phone,Chrome Mobile,FR
+2,1,-unknown-,5,facebook,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+2,1,-unknown-,51,facebook,2,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+2,2,-unknown-,40,basic,2,en,direct,direct,linked,Web,iPhone,Mobile Safari,US
+2,1,MALE,95,basic,0,en,direct,direct,untracked,Web,Mac Desktop,Firefox,FR
+2,1,-unknown-,40,basic,3,en,seo,google,untracked,Web,iPhone,-unknown-,FR
+2,2,FEMALE,27,basic,3,en,sem-non-brand,google,untracked,Web,Mac Desktop,Safari,US
+2,1,MALE,31,basic,3,en,direct,direct,untracked,Web,Mac Desktop,Safari,US
+2,2,MALE,29,basic,3,en,direct,direct,linked,Web,iPhone,Mobile Safari,NL
+2,1,-unknown-,64,basic,3,en,sem-non-brand,google,linked,Web,Mac Desktop,Firefox,FR
+2,2,-unknown-,29,basic,2,en,direct,direct,linked,Web,Mac Desktop,Chrome,US
+2,2,-unknown-,40,basic,2,en,other,craigslist,untracked,Web,Mac Desktop,Safari,US
+2,1,FEMALE,46,facebook,2,fr,direct,direct,omg,Web,Windows Desktop,Firefox,FR
+2,2,-unknown-,34,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Firefox,US
+2,1,FEMALE,52,basic,2,en,sem-non-brand,google,omg,Web,iPad,Mobile Safari,FR
+2,2,-unknown-,26,basic,3,en,other,craigslist,omg,Web,Mac Desktop,Chrome,FR
+2,4,-unknown-,33,basic,3,en,seo,google,untracked,Web,Mac Desktop,Safari,CA
+2,1,-unknown-,35,basic,3,en,seo,google,NA,Web,Other/Unknown,-unknown-,FR
+2,2,FEMALE,49,basic,2,en,other,craigslist,untracked,Web,Mac Desktop,Firefox,US
+2,1,FEMALE,5,facebook,2,en,direct,direct,untracked,Web,Mac Desktop,Safari,FR
+2,2,FEMALE,33,basic,3,en,direct,direct,untracked,Web,Mac Desktop,Firefox,ES
+2,1,-unknown-,37,basic,2,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+2,1,-unknown-,40,basic,2,en,sem-non-brand,google,omg,Web,Windows Desktop,Chrome,FR
+2,2,FEMALE,51,basic,0,en,other,craigslist,omg,Web,iPad,Mobile Safari,US
+2,1,MALE,33,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Firefox,FR
+2,1,-unknown-,43,facebook,2,en,seo,google,NA,Web,Other/Unknown,-unknown-,FR
+2,2,FEMALE,31,facebook,2,en,other,craigslist,untracked,Web,Windows Desktop,Chrome,US
+2,1,MALE,31,facebook,3,en,other,craigslist,product,Web,Windows Desktop,Firefox,FR
+2,3,FEMALE,35,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Safari,US
+2,2,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+2,2,MALE,29,basic,2,en,other,craigslist,untracked,Web,Mac Desktop,Chrome,US
+2,2,FEMALE,47,basic,3,en,direct,direct,untracked,Web,Windows Desktop,Firefox,FR
+2,1,FEMALE,2014,basic,2,en,other,craigslist,untracked,Web,Mac Desktop,Safari,FR
+2,2,MALE,38,basic,3,en,seo,google,untracked,Web,Mac Desktop,Chrome,FR
+2,2,FEMALE,29,basic,3,en,seo,google,untracked,Web,Mac Desktop,Firefox,US
+2,1,FEMALE,38,basic,0,en,seo,google,linked,Web,Windows Desktop,Firefox,FR
+2,2,-unknown-,40,basic,0,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+2,2,-unknown-,40,basic,2,en,sem-non-brand,google,untracked,Web,Mac Desktop,Chrome,US
+2,1,-unknown-,40,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+2,1,FEMALE,49,facebook,0,en,other,craigslist,omg,Web,Mac Desktop,Chrome,FR
+2,1,-unknown-,40,basic,3,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+2,1,-unknown-,40,basic,2,en,other,craigslist,untracked,Web,iPhone,Mobile Safari,FR
+2,2,FEMALE,40,basic,3,en,direct,direct,untracked,Web,Other/Unknown,Palm Pre web browser,other
+2,1,FEMALE,26,facebook,2,en,sem-non-brand,google,omg,Web,Windows Desktop,Chrome,FR
+2,1,-unknown-,40,basic,0,en,content,google,NA,Web,Other/Unknown,-unknown-,FR
+2,2,FEMALE,38,basic,0,en,other,craigslist,untracked,Web,Windows Desktop,Firefox,US
+2,1,-unknown-,40,basic,2,en,other,craigslist,untracked,Web,iPhone,-unknown-,FR
+2,2,MALE,45,basic,3,en,direct,direct,linked,Web,Windows Desktop,IE,US
+2,2,-unknown-,36,basic,3,en,other,craigslist,linked,Web,Mac Desktop,Firefox,US
+2,2,-unknown-,35,basic,3,en,other,craigslist,untracked,Web,Windows Desktop,IE,US
+2,1,MALE,31,facebook,0,en,other,craigslist,omg,Web,Windows Desktop,Firefox,FR
+2,2,FEMALE,38,basic,3,en,direct,direct,untracked,Web,Mac Desktop,Chrome,US
+2,1,FEMALE,28,facebook,3,en,other,craigslist,untracked,Web,iPhone,Chrome Mobile,FR
+2,1,FEMALE,24,facebook,2,en,sem-non-brand,google,linked,Web,Android Phone,Chrome Mobile,FR
+2,2,-unknown-,64,facebook,2,en,sem-non-brand,other,tracked-other,Web,Mac Desktop,Chrome,GB
+2,2,-unknown-,28,basic,3,en,other,craigslist,untracked,Web,Mac Desktop,Safari,US
+2,2,-unknown-,40,basic,3,en,direct,direct,untracked,Web,Mac Desktop,Safari,IT
+2,1,MALE,36,facebook,3,en,direct,direct,linked,Web,Mac Desktop,Chrome,FR
+4,1,MALE,45,basic,0,es,direct,direct,omg,Web,Windows Desktop,Firefox,FR
+2,1,-unknown-,40,basic,2,en,seo,google,omg,Web,Mac Desktop,Safari,FR
+2,2,FEMALE,32,facebook,0,en,other,craigslist,untracked,Web,Windows Desktop,Firefox,US
+2,1,-unknown-,40,basic,3,en,seo,google,NA,Web,Other/Unknown,-unknown-,FR
+2,2,-unknown-,40,basic,2,en,direct,direct,linked,Web,Mac Desktop,Chrome,US
+2,1,-unknown-,32,facebook,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+2,2,FEMALE,32,facebook,3,en,other,craigslist,untracked,Web,Mac Desktop,Chrome,FR
+2,1,-unknown-,40,basic,3,en,sem-non-brand,vast,NA,Web,Other/Unknown,-unknown-,FR
+2,2,-unknown-,40,basic,2,en,direct,direct,tracked-other,Web,Mac Desktop,Firefox,US
+2,2,-unknown-,50,basic,0,en,sem-non-brand,google,NA,Web,Other/Unknown,-unknown-,US
+2,2,-unknown-,40,basic,2,de,seo,google,NA,Web,Other/Unknown,-unknown-,US
+2,1,FEMALE,39,basic,0,en,direct,direct,untracked,Web,Mac Desktop,Safari,FR
+2,1,-unknown-,40,basic,0,en,seo,google,untracked,Web,Android Phone,-unknown-,FR
+2,2,FEMALE,45,facebook,2,en,direct,direct,omg,Web,Mac Desktop,Chrome,US
+2,1,-unknown-,28,basic,3,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+2,1,-unknown-,40,basic,3,en,sem-non-brand,google,linked,Web,iPhone,Mobile Safari,FR
+2,1,-unknown-,40,basic,0,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+2,2,MALE,35,facebook,0,en,other,craigslist,untracked,Web,iPhone,-unknown-,US
+2,1,-unknown-,39,basic,0,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+2,2,-unknown-,68,basic,0,en,sem-non-brand,google,NA,Web,Other/Unknown,-unknown-,US
+2,2,-unknown-,38,facebook,2,en,sem-non-brand,other,untracked,Web,Mac Desktop,Firefox,US
+2,1,-unknown-,40,basic,2,en,other,craigslist,untracked,Web,Windows Desktop,IE,FR
+2,2,-unknown-,40,basic,3,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,US
+2,2,-unknown-,40,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+2,2,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+2,1,FEMALE,27,basic,2,en,sem-non-brand,google,untracked,Web,iPhone,Mobile Safari,FR
+2,2,FEMALE,38,basic,2,en,other,other,linked,Web,Mac Desktop,Firefox,US
+2,1,FEMALE,30,basic,3,en,sem-non-brand,vast,omg,Web,Windows Desktop,IE,FR
+2,1,-unknown-,40,basic,2,en,sem-non-brand,google,NA,Web,Other/Unknown,-unknown-,FR
+2,1,MALE,35,facebook,2,en,other,craigslist,untracked,Web,iPhone,Mobile Safari,FR
+2,2,-unknown-,40,basic,3,en,direct,direct,omg,Web,Windows Desktop,Chrome,US
+2,1,-unknown-,29,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+2,1,MALE,38,facebook,2,en,direct,direct,linked,Web,Mac Desktop,Safari,FR
+2,1,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+2,2,MALE,53,facebook,2,en,direct,direct,untracked,Web,Windows Desktop,Chrome,US
+2,1,FEMALE,35,basic,3,en,sem-non-brand,google,omg,Web,Mac Desktop,Chrome,FR
+2,2,-unknown-,40,basic,2,en,direct,direct,linked,Web,Mac Desktop,Safari,US
+2,2,FEMALE,48,basic,3,en,sem-non-brand,vast,omg,Web,Mac Desktop,Safari,other
+2,2,-unknown-,26,basic,2,en,seo,google,NA,Web,Other/Unknown,-unknown-,US
+2,2,MALE,39,basic,3,en,direct,direct,untracked,Web,Mac Desktop,Firefox,ES
+2,2,MALE,30,basic,2,en,other,craigslist,linked,Web,Mac Desktop,Chrome,US
+2,1,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+2,2,-unknown-,40,basic,2,en,sem-non-brand,google,NA,Web,Other/Unknown,-unknown-,US
+2,2,FEMALE,18,facebook,3,en,direct,direct,tracked-other,Web,Windows Desktop,Firefox,US
+2,2,-unknown-,40,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+2,2,-unknown-,40,basic,3,en,direct,direct,linked,Web,Mac Desktop,Firefox,US
+2,2,-unknown-,52,basic,2,en,direct,direct,linked,Web,Mac Desktop,Safari,US
+2,1,-unknown-,40,basic,2,en,direct,direct,untracked,Web,iPhone,-unknown-,FR
+2,2,-unknown-,35,facebook,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+2,1,FEMALE,40,basic,2,en,other,craigslist,linked,Web,Mac Desktop,Safari,FR
+2,2,-unknown-,19,basic,3,en,direct,direct,untracked,Web,Windows Desktop,Firefox,CA
+2,1,FEMALE,34,basic,2,en,seo,google,linked,Web,Mac Desktop,Safari,FR
+2,1,FEMALE,37,facebook,0,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+2,3,MALE,31,basic,3,en,other,craigslist,untracked,Web,Mac Desktop,Chrome,US
+2,1,-unknown-,40,basic,2,en,direct,direct,omg,Web,Mac Desktop,Chrome,FR
+2,1,FEMALE,44,basic,2,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+2,2,-unknown-,35,facebook,2,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,US
+2,2,-unknown-,45,facebook,0,en,direct,direct,untracked,Web,Mac Desktop,Chrome,US
+2,1,-unknown-,40,basic,2,en,direct,direct,linked,Web,Mac Desktop,Firefox,FR
+2,1,-unknown-,40,basic,0,en,direct,direct,omg,Web,Mac Desktop,Safari,FR
+2,1,MALE,44,basic,2,en,sem-non-brand,google,untracked,Web,Windows Desktop,Firefox,FR
+2,3,FEMALE,33,basic,2,en,other,craigslist,untracked,Web,Mac Desktop,Chrome,US
+2,2,MALE,32,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Chrome,other
+2,1,-unknown-,63,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+2,1,FEMALE,43,basic,2,en,direct,direct,untracked,Web,iPad,Mobile Safari,FR
+2,2,-unknown-,46,facebook,2,en,direct,direct,untracked,Web,Mac Desktop,Firefox,US
+2,2,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+2,2,-unknown-,40,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+2,2,-unknown-,40,facebook,2,en,other,craigslist,untracked,Web,Windows Desktop,Chrome,US
+2,1,-unknown-,40,basic,2,en,direct,direct,untracked,Web,iPhone,Mobile Safari,FR
+2,2,-unknown-,40,basic,3,en,sem-non-brand,vast,NA,Web,Other/Unknown,-unknown-,other
+2,2,-unknown-,58,basic,3,en,sem-non-brand,google,NA,Web,Other/Unknown,-unknown-,US
+2,1,-unknown-,35,basic,0,en,seo,google,untracked,Web,Windows Desktop,Chrome,FR
+2,2,FEMALE,51,facebook,2,en,sem-non-brand,google,linked,Web,Mac Desktop,Chrome,US
+2,1,FEMALE,42,facebook,3,en,other,craigslist,omg,Web,Mac Desktop,Chrome,FR
+2,1,MALE,36,facebook,2,en,direct,direct,untracked,Web,Android Tablet,IE,FR
+2,2,FEMALE,34,facebook,2,en,direct,direct,untracked,Web,Mac Desktop,Chrome,US
+2,1,MALE,5,facebook,2,en,other,craigslist,untracked,Web,Mac Desktop,Safari,FR
+2,1,FEMALE,94,basic,0,en,content,google,linked,Web,Mac Desktop,Safari,FR
+2,1,-unknown-,46,basic,0,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+2,2,-unknown-,31,basic,2,en,other,craigslist,untracked,Web,iPhone,-unknown-,US
+2,1,-unknown-,5,basic,0,fr,direct,direct,linked,Web,iPhone,Mobile Safari,FR
+2,1,MALE,5,facebook,2,en,content,google,linked,Web,Windows Desktop,IE,FR
+2,1,-unknown-,35,facebook,2,en,sem-non-brand,google,NA,Web,Other/Unknown,-unknown-,FR
+2,1,FEMALE,35,basic,2,en,direct,direct,tracked-other,Web,Mac Desktop,Safari,FR
+2,1,FEMALE,40,basic,2,en,sem-non-brand,google,untracked,Web,iPad,Mobile Safari,FR
+2,2,-unknown-,19,basic,2,en,other,craigslist,untracked,Web,Mac Desktop,Firefox,CA
+2,1,-unknown-,40,basic,2,en,seo,google,untracked,Web,Mac Desktop,Chrome,FR
+2,2,MALE,30,facebook,0,en,other,craigslist,linked,Web,Mac Desktop,Chrome,US
+2,1,-unknown-,40,basic,3,en,other,craigslist,linked,Web,Android Phone,Chrome Mobile,FR
+2,3,-unknown-,40,basic,2,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,US
+2,1,FEMALE,31,facebook,2,en,sem-non-brand,google,linked,Web,Windows Desktop,Chrome,FR
+2,1,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+2,1,MALE,64,facebook,2,en,sem-non-brand,google,linked,Web,iPhone,Mobile Safari,FR
+2,2,-unknown-,29,basic,0,en,direct,direct,tracked-other,Web,Mac Desktop,Safari,US
+2,4,FEMALE,45,basic,3,en,other,craigslist,untracked,Web,iPhone,Mobile Safari,US
+2,2,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+2,2,FEMALE,37,basic,0,en,sem-non-brand,google,linked,Web,Mac Desktop,Chrome,US
+2,1,-unknown-,40,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Safari,FR
+2,1,-unknown-,40,basic,2,en,sem-non-brand,other,omg,Web,iPad,Mobile Safari,FR
+2,1,-unknown-,40,basic,2,en,other,craigslist,omg,Web,iPad,Mobile Safari,FR
+2,1,-unknown-,40,basic,3,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+2,1,MALE,31,facebook,2,en,direct,direct,linked,Web,Mac Desktop,Chrome,FR
+2,3,FEMALE,35,basic,3,en,sem-non-brand,google,untracked,Web,Mac Desktop,Safari,DE
+2,1,MALE,37,basic,0,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+2,1,MALE,40,facebook,2,en,direct,direct,linked,Web,Mac Desktop,Firefox,FR
+2,1,-unknown-,40,basic,2,en,other,craigslist,untracked,Web,Windows Desktop,Chrome,FR
+2,3,-unknown-,40,basic,0,en,direct,direct,linked,Web,Mac Desktop,Safari,CA
+2,1,-unknown-,19,basic,0,en,other,craigslist,untracked,Web,Windows Desktop,Chrome,FR
+2,2,FEMALE,44,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Safari,US
+2,2,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+2,2,-unknown-,36,facebook,3,en,direct,direct,omg,Web,Mac Desktop,Safari,US
+2,2,-unknown-,40,basic,2,en,seo,google,NA,Web,Other/Unknown,-unknown-,US
+2,2,-unknown-,5,facebook,2,en,sem-non-brand,google,untracked,Web,Windows Desktop,IE,US
+2,2,FEMALE,40,basic,3,en,other,craigslist,untracked,Web,Mac Desktop,Chrome,US
+2,1,FEMALE,56,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Safari,FR
+2,3,-unknown-,26,facebook,2,en,other,craigslist,linked,Web,Windows Desktop,Chrome,US
+2,1,MALE,5,facebook,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+2,2,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+2,1,-unknown-,31,basic,2,en,other,craigslist,linked,Web,Windows Desktop,Chrome,FR
+2,2,FEMALE,37,facebook,2,en,direct,direct,untracked,Web,Windows Desktop,Chrome,US
+2,2,-unknown-,40,basic,3,en,sem-non-brand,google,NA,Web,Other/Unknown,-unknown-,CA
+2,2,FEMALE,26,basic,2,en,other,craigslist,untracked,Web,Mac Desktop,Safari,US
+2,1,-unknown-,40,basic,0,en,seo,google,untracked,Web,Mac Desktop,Safari,FR
+2,1,-unknown-,25,basic,2,en,direct,direct,omg,Web,Mac Desktop,Firefox,FR
+2,2,-unknown-,18,basic,3,en,sem-non-brand,google,untracked,Web,Mac Desktop,Firefox,CA
+2,1,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+2,1,MALE,51,basic,2,en,other,craigslist,untracked,Web,Windows Desktop,IE,FR
+2,2,FEMALE,30,basic,2,en,seo,google,linked,Web,Mac Desktop,Firefox,US
+2,2,-unknown-,40,basic,2,de,other,craigslist,linked,Web,Mac Desktop,Safari,DE
+2,3,-unknown-,40,basic,2,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,US
+2,3,FEMALE,55,basic,2,en,seo,google,omg,Web,Mac Desktop,Safari,US
+2,2,-unknown-,40,basic,2,en,seo,google,untracked,Web,Mac Desktop,Chrome,ES
+2,2,-unknown-,40,basic,2,en,sem-non-brand,google,untracked,Web,iPhone,-unknown-,US
+2,1,FEMALE,32,facebook,2,en,seo,google,untracked,Web,Windows Desktop,Chrome,FR
+2,2,-unknown-,40,basic,3,en,other,craigslist,untracked,Web,Mac Desktop,Safari,US
+2,1,-unknown-,40,basic,3,en,seo,google,NA,Web,Other/Unknown,-unknown-,FR
+2,1,-unknown-,40,basic,2,en,direct,direct,linked,Web,iPhone,Mobile Safari,FR
+2,1,FEMALE,5,facebook,2,en,direct,direct,untracked,Web,Mac Desktop,Chrome,FR
+2,2,-unknown-,34,basic,0,en,direct,direct,untracked,Web,Mac Desktop,Firefox,US
+2,2,-unknown-,40,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+2,1,-unknown-,40,facebook,2,en,other,craigslist,untracked,Web,iPhone,Mobile Safari,FR
+2,1,-unknown-,40,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+2,2,MALE,30,facebook,2,en,seo,google,untracked,Web,Windows Desktop,Chrome,FR
+2,2,MALE,25,basic,3,en,other,craigslist,untracked,Web,Mac Desktop,Chrome,US
+2,1,MALE,32,facebook,2,en,sem-non-brand,google,untracked,Web,iPad,Mobile Safari,FR
+2,3,MALE,32,basic,3,en,direct,direct,linked,Web,Windows Desktop,Firefox,ES
+2,1,FEMALE,46,basic,2,en,seo,google,untracked,Web,Mac Desktop,Safari,FR
+2,2,-unknown-,40,basic,2,en,seo,google,untracked,Web,Mac Desktop,Chrome,US
+2,1,-unknown-,40,basic,3,en,seo,google,omg,Web,Windows Desktop,Chrome,FR
+2,1,-unknown-,40,basic,3,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+2,1,-unknown-,40,basic,3,en,sem-non-brand,google,NA,Web,Other/Unknown,-unknown-,FR
+2,1,-unknown-,40,facebook,2,en,other,craigslist,tracked-other,Web,Mac Desktop,Chrome,FR
+2,1,-unknown-,40,basic,3,en,other,craigslist,linked,Web,Windows Desktop,Firefox,FR
+2,2,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+2,1,MALE,57,basic,0,en,direct,direct,omg,Web,Windows Desktop,IE,FR
+2,2,MALE,5,facebook,3,en,direct,direct,untracked,Web,Windows Desktop,Chrome,US
+2,1,MALE,34,basic,3,en,sem-non-brand,google,linked,Web,Windows Desktop,Chrome,FR
+2,1,-unknown-,40,basic,3,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+2,1,MALE,47,facebook,2,en,seo,google,untracked,Web,iPad,Mobile Safari,FR
+2,2,MALE,30,basic,3,en,direct,direct,untracked,Web,Mac Desktop,Chrome,CA
+2,1,-unknown-,40,basic,2,en,direct,direct,linked,Web,iPad,Mobile Safari,FR
+2,2,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+2,1,-unknown-,39,facebook,3,en,sem-non-brand,vast,NA,Web,Other/Unknown,-unknown-,FR
+2,2,FEMALE,40,facebook,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+2,2,-unknown-,40,basic,2,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,US
+2,2,-unknown-,40,basic,3,en,direct,direct,untracked,Web,Mac Desktop,Chrome,US
+2,1,-unknown-,40,basic,0,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+2,1,FEMALE,39,facebook,2,en,sem-non-brand,google,untracked,Web,iPad,Mobile Safari,FR
+2,1,-unknown-,40,basic,3,en,direct,direct,untracked,Web,Mac Desktop,Chrome,FR
+2,1,-unknown-,40,basic,1,en,seo,google,untracked,Web,Windows Desktop,Firefox,FR
+2,1,-unknown-,40,basic,3,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+2,3,MALE,39,facebook,2,en,other,craigslist,untracked,Web,Mac Desktop,Safari,US
+2,1,FEMALE,40,facebook,2,en,sem-non-brand,other,linked,Web,Mac Desktop,Chrome,FR
+2,1,-unknown-,40,basic,2,en,direct,direct,linked,Web,iPad,Mobile Safari,FR
+2,1,-unknown-,40,basic,2,en,content,google,omg,Web,Windows Desktop,Chrome,FR
+2,1,-unknown-,40,basic,3,en,seo,google,omg,Web,Mac Desktop,Firefox,FR
+2,1,FEMALE,40,facebook,2,en,other,craigslist,untracked,Web,Windows Desktop,Firefox,FR
+2,2,-unknown-,52,basic,0,en,seo,google,untracked,Web,Mac Desktop,Safari,US
+2,2,MALE,29,basic,2,en,direct,direct,untracked,Web,iPhone,-unknown-,FR
+2,2,FEMALE,47,facebook,3,en,other,craigslist,untracked,Web,Mac Desktop,Firefox,US
+2,1,FEMALE,5,facebook,3,en,sem-non-brand,vast,linked,Web,Android Phone,Android Browser,FR
+2,2,FEMALE,49,facebook,3,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,US
+2,2,MALE,40,facebook,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,other
+2,1,MALE,40,facebook,3,en,direct,direct,linked,Web,Windows Desktop,Chrome,FR
+2,3,FEMALE,38,facebook,0,en,direct,direct,untracked,Web,iPad,Mobile Safari,US
+2,1,FEMALE,40,facebook,2,en,direct,direct,untracked,Web,iPad,Mobile Safari,FR
+2,2,FEMALE,35,facebook,2,en,seo,google,untracked,Web,iPhone,-unknown-,US
+2,1,FEMALE,32,facebook,2,en,direct,direct,untracked,Web,iPhone,-unknown-,FR
+2,1,-unknown-,35,facebook,2,en,other,craigslist,linked,Web,Windows Desktop,Firefox,FR
+2,2,FEMALE,30,basic,0,en,seo,google,linked,Web,Mac Desktop,Safari,US
+2,2,MALE,40,facebook,2,en,direct,direct,untracked,Web,Mac Desktop,Firefox,US
+2,2,-unknown-,40,basic,2,en,content,google,NA,Web,Other/Unknown,-unknown-,US
+2,1,-unknown-,40,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+2,1,-unknown-,40,basic,3,en,sem-non-brand,other,NA,Web,Other/Unknown,-unknown-,FR
+2,2,FEMALE,34,basic,0,en,direct,direct,untracked,Web,Windows Desktop,Chrome,FR
+2,1,FEMALE,40,facebook,3,en,other,craigslist,omg,Web,iPhone,Mobile Safari,FR
+2,1,MALE,51,basic,2,en,sem-non-brand,vast,untracked,Web,Windows Desktop,IE,FR
+2,2,FEMALE,47,facebook,0,en,direct,direct,untracked,Web,Mac Desktop,Safari,US
+2,3,-unknown-,37,basic,1,en,seo,google,untracked,Web,Mac Desktop,Chrome,US
+2,2,MALE,65,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Firefox,US
+2,1,FEMALE,29,facebook,0,en,seo,google,untracked,Web,Other/Unknown,Chrome,FR
+2,2,-unknown-,37,basic,2,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,US
+2,2,FEMALE,49,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Chrome,DE
+2,1,-unknown-,40,basic,3,en,sem-non-brand,vast,NA,Web,Other/Unknown,-unknown-,FR
+2,2,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+2,2,-unknown-,32,basic,3,en,direct,direct,untracked,Web,iPhone,-unknown-,US
+2,2,-unknown-,26,facebook,3,en,direct,direct,untracked,Web,iPhone,-unknown-,IT
+2,2,FEMALE,37,basic,2,en,other,craigslist,untracked,Web,Mac Desktop,Safari,ES
+2,1,-unknown-,40,basic,3,en,sem-non-brand,google,NA,Web,Other/Unknown,-unknown-,FR
+2,2,FEMALE,40,basic,2,en,seo,google,linked,Web,iPhone,Mobile Safari,US
+2,1,FEMALE,51,basic,3,en,other,craigslist,linked,Web,Windows Desktop,Chrome,FR
+2,1,FEMALE,5,facebook,2,en,other,other,linked,Web,Mac Desktop,Safari,FR
+2,2,-unknown-,67,basic,3,en,direct,direct,linked,Web,iPad,Mobile Safari,GB
+2,1,-unknown-,40,basic,2,en,other,craigslist,omg,Web,Mac Desktop,Firefox,FR
+2,2,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,US
+2,2,-unknown-,40,basic,2,en,direct,direct,untracked,Web,Windows Desktop,Firefox,US
+2,2,-unknown-,40,basic,2,en,other,craigslist,untracked,Web,Windows Desktop,IE,US
+2,2,MALE,33,basic,3,en,direct,direct,untracked,Web,Mac Desktop,Firefox,US
+2,1,FEMALE,25,facebook,2,en,direct,direct,linked,Web,Mac Desktop,Firefox,FR
+2,1,FEMALE,28,basic,3,en,direct,direct,untracked,Web,Android Phone,-unknown-,FR
+2,2,FEMALE,50,basic,0,en,other,craigslist,untracked,Web,Windows Desktop,Firefox,US
+2,2,FEMALE,5,facebook,3,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,US
+2,3,MALE,38,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Safari,CA
+2,1,MALE,36,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Firefox,FR
+2,1,-unknown-,40,facebook,2,en,other,craigslist,linked,Web,Mac Desktop,Firefox,FR
+2,1,-unknown-,40,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+2,1,-unknown-,40,basic,2,en,other,craigslist,omg,Web,Windows Desktop,Chrome,FR
+2,2,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+2,1,MALE,56,basic,2,en,content,google,linked,Web,Mac Desktop,Safari,FR
+2,1,FEMALE,34,basic,2,en,other,craigslist,linked,Web,Android Phone,Android Browser,FR
+2,1,-unknown-,40,basic,3,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+2,1,FEMALE,34,basic,2,en,other,craigslist,untracked,Web,Windows Desktop,IE,FR
+2,3,-unknown-,29,basic,3,en,content,google,linked,Web,Mac Desktop,Chrome,US
+2,2,-unknown-,35,basic,0,en,direct,direct,untracked,Web,Mac Desktop,Safari,US
+2,3,MALE,34,basic,2,en,other,craigslist,untracked,Web,Mac Desktop,Firefox,US
+2,1,FEMALE,5,facebook,2,en,seo,google,NA,Web,Other/Unknown,-unknown-,FR
+2,1,FEMALE,38,basic,2,en,other,craigslist,untracked,Web,Windows Desktop,Chrome,FR
+2,1,-unknown-,40,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+2,2,FEMALE,32,basic,3,en,sem-non-brand,google,untracked,Web,Windows Desktop,Chrome,US
+2,1,-unknown-,69,basic,2,en,direct,direct,untracked,Web,Desktop (Other),Chrome,FR
+2,3,MALE,40,basic,2,en,other,craigslist,omg,Web,Mac Desktop,Chrome,US
+2,3,-unknown-,27,basic,2,en,direct,direct,untracked,Web,Windows Desktop,Chrome,US
+2,3,MALE,75,basic,2,en,sem-non-brand,other,untracked,Web,Mac Desktop,Safari,US
+2,1,FEMALE,38,facebook,3,en,other,craigslist,tracked-other,Web,Windows Desktop,IE,FR
+2,3,MALE,34,basic,3,en,direct,direct,untracked,Web,Mac Desktop,Chrome,US
+3,3,FEMALE,67,basic,2,en,direct,direct,untracked,Web,Windows Desktop,IE,US
+3,1,MALE,39,facebook,0,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+3,3,MALE,40,facebook,2,en,sem-non-brand,google,NA,Web,Other/Unknown,-unknown-,US
+3,1,-unknown-,40,basic,2,en,direct,direct,omg,Web,Mac Desktop,Chrome,FR
+3,1,FEMALE,45,facebook,2,en,other,craigslist,omg,Web,Mac Desktop,Chrome,FR
+3,1,-unknown-,61,basic,2,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+3,3,FEMALE,33,basic,2,en,direct,direct,linked,Web,Mac Desktop,Safari,GB
+3,1,MALE,34,facebook,0,en,seo,google,linked,Web,Android Tablet,IE,FR
+3,3,FEMALE,28,basic,2,en,direct,direct,linked,Web,Mac Desktop,Safari,US
+3,1,FEMALE,34,facebook,2,en,other,craigslist,untracked,Web,Mac Desktop,Safari,FR
+3,3,FEMALE,53,facebook,2,en,content,google,linked,Web,Mac Desktop,Firefox,FR
+3,3,MALE,29,basic,0,en,seo,google,omg,Web,Windows Desktop,Chrome,US
+3,3,MALE,35,basic,0,en,direct,direct,linked,Web,Mac Desktop,Safari,US
+3,3,-unknown-,40,basic,2,en,direct,direct,linked,Web,Mac Desktop,Chrome,US
+3,1,-unknown-,40,basic,3,en,direct,direct,untracked,Web,iPad,Mobile Safari,FR
+3,3,MALE,67,basic,3,en,direct,direct,omg,Web,Windows Desktop,Firefox,US
+3,3,FEMALE,28,basic,3,en,sem-non-brand,google,untracked,Web,Mac Desktop,Chrome,US
+3,1,FEMALE,49,facebook,2,en,direct,direct,untracked,Web,Mac Desktop,Chrome,FR
+3,1,-unknown-,40,basic,3,en,seo,google,untracked,Web,Mac Desktop,Safari,FR
+3,1,-unknown-,39,basic,0,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+3,1,-unknown-,40,basic,3,en,sem-non-brand,google,omg,Web,Windows Desktop,Chrome,FR
+3,1,FEMALE,5,facebook,3,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
+3,1,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+3,1,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+3,3,-unknown-,40,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,CA
+3,3,-unknown-,40,basic,3,en,direct,direct,untracked,Web,iPhone,-unknown-,FR
+3,1,-unknown-,40,facebook,2,en,other,craigslist,omg,Web,Windows Desktop,Chrome,FR
+3,1,MALE,36,basic,2,en,direct,direct,untracked,Web,Mac Desktop,Safari,FR
+3,2,FEMALE,36,basic,0,es,seo,google,linked,Web,Mac Desktop,Safari,US
+3,1,-unknown-,40,basic,3,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+3,3,FEMALE,35,basic,2,en,other,craigslist,untracked,Web,iPhone,-unknown-,US
+3,1,FEMALE,30,basic,2,en,sem-non-brand,google,untracked,Web,iPhone,-unknown-,FR
+3,1,MALE,31,basic,3,en,seo,google,NA,Web,Other/Unknown,-unknown-,FR
+3,3,-unknown-,34,basic,2,en,direct,direct,untracked,Web,Windows Desktop,Firefox,other
+3,1,MALE,70,basic,2,en,seo,google,untracked,Web,Windows Desktop,Firefox,FR
+3,3,FEMALE,32,basic,2,en,seo,google,linked,Web,iPad,Mobile Safari,FR
+3,1,-unknown-,40,basic,2,en,content,google,tracked-other,Web,Mac Desktop,Safari,FR
+3,1,FEMALE,33,basic,2,en,direct,direct,linked,Web,Mac Desktop,Firefox,FR
+3,1,FEMALE,5,facebook,3,en,sem-non-brand,vast,linked,Web,iPhone,Mobile Safari,FR
+3,1,-unknown-,40,basic,1,en,seo,google,untracked,Web,Android Phone,-unknown-,FR
+3,3,FEMALE,39,facebook,2,en,other,craigslist,untracked,Web,iPhone,Mobile Safari,US
+3,3,-unknown-,40,basic,3,en,seo,google,linked,Web,Windows Desktop,Firefox,US
+3,1,-unknown-,40,basic,2,en,direct,direct,untracked,Web,Windows Desktop,Firefox,FR
+3,1,FEMALE,28,basic,0,en,other,craigslist,linked,Web,Windows Desktop,Chrome,FR
+3,3,FEMALE,29,basic,2,en,other,craigslist,linked,Web,Mac Desktop,Chrome,US
+3,3,-unknown-,40,basic,0,en,direct,direct,untracked,Web,Mac Desktop,Firefox,GB
+3,3,FEMALE,38,basic,0,en,direct,direct,untracked,Web,Mac Desktop,Safari,US
+3,3,FEMALE,26,basic,0,en,direct,direct,omg,Web,Mac Desktop,Chrome,US
+3,3,-unknown-,44,basic,2,en,direct,direct,untracked,Web,Windows Desktop,Firefox,US
+3,1,-unknown-,40,basic,2,en,direct,direct,linked,Web,Mac Desktop,Safari,FR
+3,1,-unknown-,40,basic,2,en,other,craigslist,omg,Web,Windows Desktop,Chrome,FR
+3,1,-unknown-,40,basic,2,en,direct,direct,NA,Web,Other/Unknown,-unknown-,FR
+3,1,-unknown-,40,basic,2,en,seo,google,untracked,Web,iPhone,-unknown-,FR
+3,1,-unknown-,40,basic,2,en,other,craigslist,NA,Web,Other/Unknown,-unknown-,FR
